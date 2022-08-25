@@ -1,0 +1,30 @@
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Repository\bin\Debug\net5.0\AppStore.Business.dll
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Repository\obj\Debug\net5.0\AppStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Repository\obj\Debug\net5.0\AppStore.Repository.AssemblyInfoInputs.cache
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Repository\obj\Debug\net5.0\AppStore.Repository.AssemblyInfo.cs
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Repository\bin\Debug\net5.0\AppStore.Repository.deps.json
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Repository\bin\Debug\net5.0\AppStore.Repository.dll
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Repository\bin\Debug\net5.0\ref\AppStore.Repository.dll
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Repository\bin\Debug\net5.0\AppStore.Repository.pdb
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Repository\bin\Debug\net5.0\AppStore.Business.pdb
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Repository\obj\Debug\net5.0\AppStore.Repository.csprojAssemblyReference.cache
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Repository\obj\Debug\net5.0\AppStore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Repository\obj\Debug\net5.0\AppStore.Repository.csproj.CopyComplete
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Repository\obj\Debug\net5.0\AppStore.Repository.dll
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Repository\obj\Debug\net5.0\ref\AppStore.Repository.dll
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Repository\obj\Debug\net5.0\AppStore.Repository.pdb
+C:\sistema\StoreApp\AppStore.Repository\bin\Debug\net5.0\AppStore.Repository.deps.json
+C:\sistema\StoreApp\AppStore.Repository\bin\Debug\net5.0\AppStore.Repository.dll
+C:\sistema\StoreApp\AppStore.Repository\bin\Debug\net5.0\ref\AppStore.Repository.dll
+C:\sistema\StoreApp\AppStore.Repository\bin\Debug\net5.0\AppStore.Repository.pdb
+C:\sistema\StoreApp\AppStore.Repository\bin\Debug\net5.0\AppStore.Business.dll
+C:\sistema\StoreApp\AppStore.Repository\bin\Debug\net5.0\AppStore.Business.pdb
+C:\sistema\StoreApp\AppStore.Repository\obj\Debug\net5.0\AppStore.Repository.csprojAssemblyReference.cache
+C:\sistema\StoreApp\AppStore.Repository\obj\Debug\net5.0\AppStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\sistema\StoreApp\AppStore.Repository\obj\Debug\net5.0\AppStore.Repository.AssemblyInfoInputs.cache
+C:\sistema\StoreApp\AppStore.Repository\obj\Debug\net5.0\AppStore.Repository.AssemblyInfo.cs
+C:\sistema\StoreApp\AppStore.Repository\obj\Debug\net5.0\AppStore.Repository.csproj.CoreCompileInputs.cache
+C:\sistema\StoreApp\AppStore.Repository\obj\Debug\net5.0\AppStore.Repository.csproj.CopyComplete
+C:\sistema\StoreApp\AppStore.Repository\obj\Debug\net5.0\AppStore.Repository.dll
+C:\sistema\StoreApp\AppStore.Repository\obj\Debug\net5.0\ref\AppStore.Repository.dll
+C:\sistema\StoreApp\AppStore.Repository\obj\Debug\net5.0\AppStore.Repository.pdb

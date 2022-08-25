@@ -1,0 +1,24 @@
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Business\bin\Debug\net5.0\AppStore.Business.deps.json
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Business\bin\Debug\net5.0\AppStore.Business.dll
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Business\bin\Debug\net5.0\ref\AppStore.Business.dll
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Business\bin\Debug\net5.0\AppStore.Business.pdb
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Business\obj\Debug\net5.0\AppStore.Business.csprojAssemblyReference.cache
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Business\obj\Debug\net5.0\AppStore.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Business\obj\Debug\net5.0\AppStore.Business.AssemblyInfoInputs.cache
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Business\obj\Debug\net5.0\AppStore.Business.AssemblyInfo.cs
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Business\obj\Debug\net5.0\AppStore.Business.csproj.CoreCompileInputs.cache
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Business\obj\Debug\net5.0\AppStore.Business.dll
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Business\obj\Debug\net5.0\ref\AppStore.Business.dll
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Business\obj\Debug\net5.0\AppStore.Business.pdb
+C:\sistema\StoreApp\AppStore.Business\bin\Debug\net5.0\AppStore.Business.deps.json
+C:\sistema\StoreApp\AppStore.Business\bin\Debug\net5.0\AppStore.Business.dll
+C:\sistema\StoreApp\AppStore.Business\bin\Debug\net5.0\ref\AppStore.Business.dll
+C:\sistema\StoreApp\AppStore.Business\bin\Debug\net5.0\AppStore.Business.pdb
+C:\sistema\StoreApp\AppStore.Business\obj\Debug\net5.0\AppStore.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\sistema\StoreApp\AppStore.Business\obj\Debug\net5.0\AppStore.Business.AssemblyInfoInputs.cache
+C:\sistema\StoreApp\AppStore.Business\obj\Debug\net5.0\AppStore.Business.AssemblyInfo.cs
+C:\sistema\StoreApp\AppStore.Business\obj\Debug\net5.0\AppStore.Business.csproj.CoreCompileInputs.cache
+C:\sistema\StoreApp\AppStore.Business\obj\Debug\net5.0\AppStore.Business.dll
+C:\sistema\StoreApp\AppStore.Business\obj\Debug\net5.0\ref\AppStore.Business.dll
+C:\sistema\StoreApp\AppStore.Business\obj\Debug\net5.0\AppStore.Business.pdb
+C:\sistema\StoreApp\AppStore.Business\obj\Debug\net5.0\AppStore.Business.csprojAssemblyReference.cache

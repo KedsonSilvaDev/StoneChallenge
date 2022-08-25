@@ -1,0 +1,7 @@
+﻿{
+  "AppStoreRepositorySettings": {
+    "ConnectionString": "mongodb+srv://StoreMongoDB:Stone@cluster0.tjlnc4q.mongodb.net/?retryWrites=true&w=majority",
+    "DatabaseName": "Store"
+  },
+  "AllowedHosts": "*"
+}

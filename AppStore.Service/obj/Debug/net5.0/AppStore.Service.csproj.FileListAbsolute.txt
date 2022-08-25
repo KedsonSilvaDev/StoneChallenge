@@ -1,0 +1,30 @@
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Service\bin\Debug\net5.0\AppStore.Service.deps.json
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Service\bin\Debug\net5.0\AppStore.Service.dll
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Service\bin\Debug\net5.0\ref\AppStore.Service.dll
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Service\bin\Debug\net5.0\AppStore.Service.pdb
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Service\bin\Debug\net5.0\AppStore.Business.dll
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Service\bin\Debug\net5.0\AppStore.Business.pdb
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Service\obj\Debug\net5.0\AppStore.Service.csprojAssemblyReference.cache
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Service\obj\Debug\net5.0\AppStore.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Service\obj\Debug\net5.0\AppStore.Service.AssemblyInfoInputs.cache
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Service\obj\Debug\net5.0\AppStore.Service.AssemblyInfo.cs
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Service\obj\Debug\net5.0\AppStore.Service.csproj.CoreCompileInputs.cache
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Service\obj\Debug\net5.0\AppStore.Service.csproj.CopyComplete
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Service\obj\Debug\net5.0\AppStore.Service.dll
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Service\obj\Debug\net5.0\ref\AppStore.Service.dll
+C:\Users\Comedor de Casadas\source\repos\AppStore Stone\AppStoreStone\AppStore.Service\obj\Debug\net5.0\AppStore.Service.pdb
+C:\sistema\StoreApp\AppStore.Service\bin\Debug\net5.0\AppStore.Service.deps.json
+C:\sistema\StoreApp\AppStore.Service\bin\Debug\net5.0\AppStore.Service.dll
+C:\sistema\StoreApp\AppStore.Service\bin\Debug\net5.0\ref\AppStore.Service.dll
+C:\sistema\StoreApp\AppStore.Service\bin\Debug\net5.0\AppStore.Service.pdb
+C:\sistema\StoreApp\AppStore.Service\bin\Debug\net5.0\AppStore.Business.dll
+C:\sistema\StoreApp\AppStore.Service\bin\Debug\net5.0\AppStore.Business.pdb
+C:\sistema\StoreApp\AppStore.Service\obj\Debug\net5.0\AppStore.Service.csprojAssemblyReference.cache
+C:\sistema\StoreApp\AppStore.Service\obj\Debug\net5.0\AppStore.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\sistema\StoreApp\AppStore.Service\obj\Debug\net5.0\AppStore.Service.AssemblyInfoInputs.cache
+C:\sistema\StoreApp\AppStore.Service\obj\Debug\net5.0\AppStore.Service.AssemblyInfo.cs
+C:\sistema\StoreApp\AppStore.Service\obj\Debug\net5.0\AppStore.Service.csproj.CoreCompileInputs.cache
+C:\sistema\StoreApp\AppStore.Service\obj\Debug\net5.0\AppStore.Service.csproj.CopyComplete
+C:\sistema\StoreApp\AppStore.Service\obj\Debug\net5.0\AppStore.Service.dll
+C:\sistema\StoreApp\AppStore.Service\obj\Debug\net5.0\ref\AppStore.Service.dll
+C:\sistema\StoreApp\AppStore.Service\obj\Debug\net5.0\AppStore.Service.pdb

@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="KissLog.AspNetCore" Version="5.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer" Version="5.0.0" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppStore.Business\AppStore.Business.csproj" />
+    <ProjectReference Include="..\AppStore.Repository\AppStore.Repository.csproj" />
+    <ProjectReference Include="..\AppStore.Service\AppStore.Service.csproj" />
+  </ItemGroup>
+
+</Project>
