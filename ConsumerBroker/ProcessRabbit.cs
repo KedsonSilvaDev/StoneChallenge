@@ -41,7 +41,7 @@ namespace ConsumerBroker
                                      autoAck: true,
                                      consumer: consumer);
 
-                Console.WriteLine("Transação processada. Consulte seu Id Novamente.");
+                Console.WriteLine("Fila de Processamento iniciada. Consulte sua compra, por gentileza.");
                 Console.ReadLine();
             }
         }

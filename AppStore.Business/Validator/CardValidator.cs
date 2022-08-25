@@ -10,9 +10,9 @@ namespace AppStore.Business.Validator
 {
     public class CardValidator
     {
-        public static void Validate(Card card)
+        public static void Validate(string cardNumber)
         {
-            if (card.CardNumber.Length != 16)
+            if (cardNumber.Length != 16)
                 throw new Exception("Cartão inválido. Verifique a quantidade de digitos.");
         }
 

@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace AppStore.Business.Mapper
@@ -14,11 +15,11 @@ namespace AppStore.Business.Mapper
         {
             Purchase purchase = new()
             {
-                CardNumber = purchaseModel.CardNumber,
+                CardNumber = Regex.Replace(purchaseModel.CardNumber, "[^0-9]+", ""),
                 CardType = purchaseModel.CardType,
                 SecurityCode = purchaseModel.SecurityCode,
-                TaxNumber = purchaseModel.TaxNumber,
-                CodeApp = purchaseModel.CodeApp                
+                TaxNumber = Regex.Replace(purchaseModel.TaxNumber, "[^0-9]+", ""),
+                CodeApp = purchaseModel.CodeApp
             };
 
             return purchase;

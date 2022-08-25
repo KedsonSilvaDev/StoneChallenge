@@ -25,6 +25,7 @@ namespace AppStore.Service
 
         public async Task<Purchase> CreatePurchaseUser(Purchase purchase)
         {
+            CardValidator.Validate(purchase.CardNumber);
             CardValidator.ValidateCardType(purchase.CardType.ToString());
 
             User userExist = await userRepository.ValidateUserExists(purchase.TaxNumber);

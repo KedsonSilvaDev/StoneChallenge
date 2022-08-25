@@ -19,6 +19,8 @@ namespace ConsumerBroker
             services.Configure<AppStoreRepositorySettings>(configuration.GetSection(nameof(AppStoreRepositorySettings)));
             services.AddSingleton<IAppStoreRepositorySettings>(a => a.GetRequiredService<IOptions<AppStoreRepositorySettings>>().Value);
             services.AddScoped<IPurchaseRepository, PurchaseRepository>();
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IShopRepository, ShopRepository>();
 
             return services;
         }

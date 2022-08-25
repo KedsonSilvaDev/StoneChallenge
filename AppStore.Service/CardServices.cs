@@ -21,7 +21,7 @@ namespace AppStore.Service
         }
         public async Task<Card> CreateCard(Card card)
         {
-            CardValidator.Validate(card);
+            CardValidator.Validate(card.CardNumber);
 
             User userExists = await userRepository.ValidateUserExists(card.TaxNumber);
 
